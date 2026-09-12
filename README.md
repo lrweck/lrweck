@@ -1,5 +1,7 @@
 ### Olá! I'm Luis 👋
 
+**✍️ Blog:** [lrweck.github.io/posts](https://lrweck.github.io/posts/) — engineering notes on Go, PostgreSQL and the occasional benchmark deep-dive.
+
 Go developer in Santa Catarina, Brasil. I build **multitenant PostgreSQL tooling** and small, fast Go libraries — connection pools, iterators, structured logging, and benchmarks.
 
 #### What I'm working on
@@ -13,7 +15,6 @@ Go developer in Santa Catarina, Brasil. I build **multitenant PostgreSQL tooling
 
 - [pgrust-benchmark](https://github.com/lrweck/pgrust-benchmark) — pgrust v0.2 (Rust) vs PostgreSQL 18.6 native binaries.
 - [pgbench](https://github.com/lrweck/pgbench) — Postgres benchmarking setup.
-- [posts](https://lrweck.github.io/posts/) — my blog.
 
 #### How I work
 
@@ -23,4 +24,4 @@ Go developer in Santa Catarina, Brasil. I build **multitenant PostgreSQL tooling
 
 ---
 
-*Check my repos or the blog — feedback and PRs welcome.*
+*Check [my blog](https://lrweck.github.io/posts/) or the repos — feedback and PRs welcome.*
